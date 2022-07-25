@@ -1,0 +1,41 @@
+/* fonts  */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+/* Common Styles  */
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+/* header styles  */
+.header-bg{
+    background-color: #FEEAE9;
+}
+
+.text-color{
+    color: #FF136F;
+}
+
+.btn-color{
+    background-color: #FF136F;
+    padding: 10px 20px;
+}
+
+/* categories styles  */
+.categories-btn{
+    background-color: black;
+    padding: 10px 20px;
+}
+
+/* subscribe style */
+#subscribe{
+    background-color: #f3e2e0;
+}
+
+.subscribe-form-width{
+    width: 300px;
+}
+
+.subscirbe-btn{
+    background-color: #FF136F;
+    padding: 7px 20px;
+}
